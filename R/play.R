@@ -1,4 +1,4 @@
-#' R Slot Machine
+#' Play Slots In R!
 #'
 #' A slot machine simulator in R. Based on the example outlined in \href{https://rstudio-education.github.io/hopr/project-3-slot-machine.html}{Hands on in R Programming}. The default configuration seems to have multiple plays (`n>1`) lead to being bankrupt. However it appears that setting the `betsize` larger leads to more profitable returns when using the default probabilities.
 #'
