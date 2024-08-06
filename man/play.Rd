@@ -21,7 +21,7 @@ play(
 \item{prob}{probabilities for getting diamonds (DD), 7s, bars (B,BB, BBB for single, double and triples),Cherries (C) and Zeros (0). Change the probabilities to change the odds of winning!}
 }
 \description{
-A slot machine simulator in R. Based on the example outlined in \href{https://rstudio-education.github.io/hopr/project-3-slot-machine.html}{Hands on in R Programming}
+A slot machine simulator in R. Based on the example outlined in \href{https://rstudio-education.github.io/hopr/project-3-slot-machine.html}{Hands on in R Programming}. The default configuration seems to have multiple plays (`n>1`) lead to being bankrupt. However it appears that setting the `betsize` larger leads to more profitable returns when using the default probabilities.
 }
 \examples{
 library(rslots)
