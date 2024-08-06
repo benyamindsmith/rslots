@@ -1,6 +1,6 @@
 # rslots
 
-A slot machine simulator in R inspired by the example outlined in [Hands on R Programming](https://rstudio-education.github.io/hopr/project-3-slot-machine.html)
+A slot machine simulator in R inspired by the example outlined in [Hands on R Programming](https://rstudio-education.github.io/hopr/project-3-slot-machine.html).
 
 # Installing this package
 
