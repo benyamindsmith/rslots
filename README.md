@@ -6,7 +6,7 @@ A slot machine simulator in R inspired by the example outlined in [Hands on R Pr
 
 ```r
 #install.packages("devtools")
-devtools::install_packages("benyamindsmith/rslots")
+devtools::install_github("benyamindsmith/rslots")
 ```
 
 # Using this package
